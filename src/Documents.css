@@ -1,0 +1,29 @@
+.container_doc {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.doc_wrapper_img_column {
+    display: flex;
+    flex-direction: column;
+}
+
+.doc_img {
+    width: 25%;
+    height: 25%;
+}
+
+.doc_circle {
+    width: 100%;
+}
+
+.doc_wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin-top: 2%;
+}
